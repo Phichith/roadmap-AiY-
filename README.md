@@ -23,7 +23,7 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - Once a feature is delivered, the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant [Changelog](https://github.blog/changelog/) post.
 
-## Release phases
+## Release phasescr edential.helper
 
 Release phases indicate the stages that the product or feature goes through, from early testing to general availability.
 
